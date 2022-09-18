@@ -1,2 +1,2 @@
 # Timer
-Timer via JS
+Timer in Html, Css & JS
